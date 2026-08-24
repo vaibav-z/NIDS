@@ -1,3 +1,11 @@
 # NIDS — Network Intrusion Detection System
 
-A Network Intrxusion Detection System is used to analyze a system's network traffic and identify potential security threats or suspicious activity within the network.
+A Network Intrusion Detection System is used to analyze a system's network traffic and identify potential security threats or suspicious activity within the network.
+
+# Instalation
+
+```console
+gcc/cc/clang -o nob nob.c
+./nob
+```
+
