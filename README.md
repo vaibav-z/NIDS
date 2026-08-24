@@ -8,4 +8,3 @@ A Network Intrusion Detection System is used to analyze a system's network traff
 gcc/cc/clang -o nob nob.c
 ./nob
 ```
-
